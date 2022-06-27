@@ -1,0 +1,9 @@
+certifi==2020.12.5
+click==7.1.2
+Flask==1.1.2
+imutils==0.5.4
+itsdangerous==1.1.0
+MarkupSafe==1.1.1
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+Werkzeug==1.0.1
